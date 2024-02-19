@@ -69,7 +69,7 @@ CELERY_TASK_EAGER_PROPAGATES = True
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "postgres123",
+        "NAME": "OLX",
         "USER": "postgres",
         "PASSWORD": "x19702004r",
         "HOST": "localhost",
